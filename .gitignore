@@ -1,5 +1,6 @@
 # Default ignored files
 .idea
 nlp-api/target
+nlp-api/src/main/resources/site/node_modules
 nlp-services/target
 *.iml
