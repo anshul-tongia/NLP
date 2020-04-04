@@ -12,7 +12,7 @@ public class HelloController {
     @Autowired
     private HelloService service;
 
-    @RequestMapping(method = RequestMethod.GET, path = "/")
+    @RequestMapping(method = RequestMethod.GET, path = "/hello")
     public String sayHello() {
         return service.greetingService();
     }
