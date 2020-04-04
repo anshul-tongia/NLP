@@ -1,0 +1,5 @@
+# Default ignored files
+.idea
+nlp-api/target
+nlp-services/target
+*.iml
